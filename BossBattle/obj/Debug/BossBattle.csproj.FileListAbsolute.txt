@@ -1,0 +1,7 @@
+C:\Users\quest\GitRepos\repos\BossBattle\BossBattle\bin\Debug\BossBattle.exe.config
+C:\Users\quest\GitRepos\repos\BossBattle\BossBattle\bin\Debug\BossBattle.exe
+C:\Users\quest\GitRepos\repos\BossBattle\BossBattle\bin\Debug\BossBattle.pdb
+C:\Users\quest\GitRepos\repos\BossBattle\BossBattle\obj\Debug\BossBattle.csproj.AssemblyReference.cache
+C:\Users\quest\GitRepos\repos\BossBattle\BossBattle\obj\Debug\BossBattle.csproj.CoreCompileInputs.cache
+C:\Users\quest\GitRepos\repos\BossBattle\BossBattle\obj\Debug\BossBattle.exe
+C:\Users\quest\GitRepos\repos\BossBattle\BossBattle\obj\Debug\BossBattle.pdb
